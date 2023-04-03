@@ -15,3 +15,5 @@ Github.
     <string name="app_name">Hello World!</string>
 </resources>
 ```
+
+![](HelloWorld.png)
